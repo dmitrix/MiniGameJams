@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5b33f6ba596e6094eaa493f1b413bd53
+timeCreated: 1482562485
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TheSnails
+  fontNames:
+  - TheSnails
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
