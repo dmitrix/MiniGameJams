@@ -2,7 +2,7 @@
 Twitter: [@Dmitrix_](https://twitter.com/dmitrix_)
 
 
-This is a personal challenge to create a new playable game prototype every week.
+This is a personal challenge to create a new playable game prototype ~~every week.~~ as often as possible.
 
 ## Why?
 A new game every week?! Sounds crazy, right? It is. Fortunately I'm not the first to try something like this. 
@@ -18,6 +18,8 @@ According to many prominent game developers, not only is rapid prototyping an es
 
 [Prototype Studio](http://gamecenter.nyu.edu/?courses=prototype-studio) - NYU Course Description
 
+[One Game a Month](http://www.onegameamonth.com/) - 12 Games in 12 Months Challenge
+
 ## Rules
 
 * **Don't don't break the chain**
@@ -31,4 +33,4 @@ The whole point of this is to learn stuff, so I'm going to make sure that I writ
 ## Completed
 A list of playable game prototypes released so far.
 
-12/24/2016 - [Flutter Butter](http://tydaspy.com/flutterbutter/) (Flappy Bird Clone)
+12/24/2016 - [Flutter Butter](http://tydaspy.com/flutterbutter/) (Flappy Bird Clone) | [Postmortem](http://blog.dmitrix.com/2017/01/what-i-learned-from-making-flappy-clone.html)
